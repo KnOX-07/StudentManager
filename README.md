@@ -1,1 +1,1 @@
-# StudentManager
+# Student Management App
