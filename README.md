@@ -1,1 +1,1 @@
-# Student Management App
+# Student Management System
