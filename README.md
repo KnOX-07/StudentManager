@@ -54,24 +54,25 @@ A **React-based Student Management System** for managing student records. It inc
 ## 📂 Project Structure
 
 ```bash
-src
-    ├── App.css
-    ├── App.js
-    ├── App.test.js
-    ├── controller
-    │   └── authController.js
-    ├── index.css
-    ├── index.js
-    ├── logo.svg
-    ├── model
-    │   ├── authModel.js
-    │   └── firebaseConfig.js
-    ├── reportWebVitals.js
-    ├── setupTests.js
-    ├── styles.css
-    └── view
-        ├── LoginPage.js
-        ├── Sidebar.js
-        ├── StudentFormModal.js
-        └── StudentsPage.js
+firebase-app
+    └── src
+        ├── App.css
+        ├── App.js
+        ├── App.test.js
+        ├── controller
+        │   └── authController.js
+        ├── index.css
+        ├── index.js
+        ├── logo.svg
+        ├── model
+        │   ├── authModel.js
+        │   └── firebaseConfig.js
+        ├── reportWebVitals.js
+        ├── setupTests.js
+        ├── styles.css
+        └── view
+            ├── LoginPage.js
+            ├── Sidebar.js
+            ├── StudentFormModal.js
+            └── StudentsPage.js
 ```
