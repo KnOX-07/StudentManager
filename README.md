@@ -2,7 +2,7 @@
   <img width="600" height="500" alt="UI" src="https://github.com/KnOX-07/StudentManager/blob/ab2a981d3509426a8e04ecd62472ec86eb9215aa/output/StudentsPage.png">
 </p>
 
-# <h1><img src="https://github.com/KnOX-07/StudentManager/blob/ab2a981d3509426a8e04ecd62472ec86eb9215aa/firebase-app/src/assets/logo192.png?raw=true" alt="App Logo" width="50" valign="bottom"/>Student Management System</h1>
+# <img src="https://github.com/KnOX-07/StudentManager/blob/ab2a981d3509426a8e04ecd62472ec86eb9215aa/firebase-app/src/assets/logo192.png?raw=true" alt="App Logo" width="50" valign="bottom"/>Student Management System
 
 A **React-based Single Page Application (SPA)** for managing student records.  
 It includes **authentication** and full **CRUD operations** (Create, Read, Update, Delete) to help administrators handle student data efficiently.
