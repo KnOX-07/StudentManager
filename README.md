@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="500" alt="UI" src="https://github.com/KnOX-07/StudentManager/blob/ab2a981d3509426a8e04ecd62472ec86eb9215aa/output/StudentsPage.png">
+  <img width="600" height="500" alt="UI" src="https://github.com/KnOX-07/StudentManager/blob/e312a63c360a9a2181c01c26c8d36c5db721d975/output/StudentsPage.png">
 </p>
 
 # <img src="https://github.com/KnOX-07/StudentManager/blob/ab2a981d3509426a8e04ecd62472ec86eb9215aa/firebase-app/src/assets/logo192.png?raw=true" alt="App Logo" width="50" valign="bottom"/>Student Management System
