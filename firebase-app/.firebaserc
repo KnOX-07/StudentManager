@@ -1,5 +1,7 @@
 {
   "projects": {
     "default": "fir-app-5bfb9"
-  }
+  },
+  "targets": {},
+  "etags": {}
 }
